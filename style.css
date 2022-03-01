@@ -1,0 +1,109 @@
+header ul {
+    margin:0;
+    padding:0;
+}
+.navigation-link {
+    display: inline-block;
+
+}
+
+.navigation {
+    background-color: black;
+    padding-bottom: 0.2cm;
+    list-style: none;
+}
+
+a {
+    color: white;
+    font-family: 'Fredoka one';
+    text-decoration: none;
+    padding: 0.1cm;
+    font-size: 0.7em;
+
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: bold;
+    font-family: 'Fredoka one';
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-family: 'Fredoka one';
+    text-decoration: bold;
+    color: #D62828;
+    font-size: 1em;
+    margin: 0;
+    padding: 1;
+}
+
+.plans h1 {
+    text-decoration: none;
+}
+
+.plans h2 {
+    color: #D62828;
+    font-size: 0.7em;
+}
+
+.plan li {
+    display:inside;
+    color: black;
+    list-style: none;
+    font-size: 0.7em;
+    text-align: center;
+   
+
+}
+.plan ul {
+    margin: 0;
+    padding:8px;
+}
+section h2 {
+    color: black;
+    text-align: center;
+
+}
+
+.plan {
+    display: inline-block;
+    background-color: #FCBF49;
+    width: 150px;
+    text-align: center;
+    font-family:'lato';
+    font-size:0.7em;
+    margin:4px;
+}
+
+.plan-highlight {
+    background-color: #F77F00;
+    width: 170px;
+    border: black solid 2px;
+    box-shadow: 3px 3px 10px #003049;
+}
+
+.plan-highlight li {
+    color: white;
+}
+.plan-highlight ul {
+    margin: 0;
+    padding:12px;
+}
+
+.plan h1 {
+    font-size: 0.9em;
+    margin-top: 8px;
+    text-align: center;
+}
+.plan h2 {
+    display:inline;
+    text-align: center;
+}
+.plan li {
+    display:inside;
+    text-align: center;
+   
+}
